@@ -116,9 +116,7 @@
                 <div class="lg:col-span-7 flex flex-col space-y-6">
 
                     <h1 class="text-4xl sm:text-6xl font-extrabold tracking-tight leading-none text-slate-900">
-                        Desain Presisi.<br>
-                        Kode <span class="text-blue-600">Bersih</span>.<br>
-                        Antarmuka Interaktif.
+                        Membangun pengalaman web lewat desain modern dan kode berkualitas.
                     </h1>
 
                     <p class="text-lg text-slate-600 max-w-xl">
@@ -236,20 +234,16 @@
                                 <div><span class="text-[#f9758b]">6</span> &nbsp;&nbsp;&nbsp;&nbsp;<span
                                         class="text-[#9ecbff]">"Interaksi UI"</span><span
                                         class="text-[#e1e4e8]">,</span></div>
-                                <div><span class="text-[#f9758b]">7</span> &nbsp;&nbsp;&nbsp;&nbsp;<span
-                                        class="text-[#9ecbff]">"Optimasi Kecepatan"</span><span
-                                        class="text-[#e1e4e8]">,</span></div>
-                                <div><span class="text-[#f9758b]">8</span> &nbsp;&nbsp;<span
+                                <div><span class="text-[#f9758b]">7</span> &nbsp;&nbsp;<span
                                         class="text-[#e1e4e8]">]</span><span class="text-[#e1e4e8]">,</span></div>
-                                <div><span class="text-[#f9758b]">9</span> &nbsp;&nbsp;<span
-                                        class="text-[#79b8ff]">"pendidikan"</span><span
-                                        class="text-[#e1e4e8]">:</span> <span class="text-[#e1e4e8]">{</span></div>
-                                <div><span class="text-[#f9758b]">10</span> &nbsp;&nbsp;&nbsp;&nbsp;<span
-                                        class="text-[#79b8ff]">"jurusan"</span><span class="text-[#e1e4e8]">:</span>
+                                <div><span class="text-[#f9758b]">8</span> &nbsp;&nbsp;<span class="text-[#79b8ff]">"pendidikan"</span>
+                                    <span class="text-[#e1e4e8]">:</span> <span class="text-[#e1e4e8]">{</span></div>
+                                        <div><span class="text-[#f9758b]">9</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-[#79b8ff]">"SMK Negeri 2 Surabaya"</span><span class="text-[#e1e4e8]">:</span> <span class="text-[#9ecbff]">"Rekayasa Prangkat Lunak"</span></div>
+                                <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-[#79b8ff]">"Universitas Dr. Soetomo"</span><span class="text-[#e1e4e8]">:</span>
                                     <span class="text-[#9ecbff]">"S1 Teknik Informatika"</span></div>
-                                <div><span class="text-[#f9758b]">11</span> &nbsp;&nbsp;<span
+                                <div><span class="text-[#f9758b]">10</span> &nbsp;&nbsp;<span
                                         class="text-[#e1e4e8]">}</span></div>
-                                <div><span class="text-[#f9758b]">12</span> <span class="text-[#e1e4e8]">}</span>
+                                <div><span class="text-[#f9758b]">11</span> <span class="text-[#e1e4e8]">}</span>
                                 </div>
                             </div>
                         </div>
