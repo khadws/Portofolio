@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "build Commands": "npm run build",
   "framework": null,
   "functions": {
     "api/index.php": {
