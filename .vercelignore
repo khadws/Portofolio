@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+/storage/framework/views
+/storage/framework/cache
+/storage/logs
