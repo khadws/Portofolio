@@ -1,6 +1,8 @@
 {
   "version": 2,
-  "buildCommand": "echo 'Skipping npm build'",
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "devCommand": "php artisan serve",
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.7.3"
@@ -9,7 +11,7 @@
   "routes": [
     {
       "src": "/build/(.*)",
-      "dest": "/public/build/$1"
+      "dest": "/build/$1"
     },
     {
       "src": "/(.*)",
